@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Structure>
+  <Mission>
+    <Step1>
+      <unitName>Search Target</unitName>
+      <unitLocation>{X=88,Y=104}</unitLocation>
+      <CallBack>null</CallBack>
+      <Setting>Search Toy</Setting>
+    </Step1>
+    <Step2>
+      <unitName>Tracing Light</unitName>
+      <unitLocation>{X=288,Y=94}</unitLocation>
+      <CallBack>null</CallBack>
+      <Setting />
+    </Step2>
+    <Step3>
+      <unitName>Change Shape</unitName>
+      <unitLocation>{X=438,Y=89}</unitLocation>
+      <CallBack>step1</CallBack>
+      <Setting />
+    </Step3>
+  </Mission>
+  <StraightLine>
+    <line1>
+      <LineName>line1</LineName>
+      <lineStartPoint>{X=88,Y=104}</lineStartPoint>
+      <lineEndPoint>{X=288,Y=94}</lineEndPoint>
+    </line1>
+    <line2>
+      <LineName>line2</LineName>
+      <lineStartPoint>{X=288,Y=94}</lineStartPoint>
+      <lineEndPoint>{X=438,Y=89}</lineEndPoint>
+    </line2>
+  </StraightLine>
+</Structure>

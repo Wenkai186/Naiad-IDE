@@ -1,0 +1,42 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mission>
+  <task0>
+    <unitName>Search Target</unitName>
+    <unitLocation>{X=124,Y=74}</unitLocation>
+  </task0>
+  <task1>
+    <unitName>Tracing Light</unitName>
+    <unitLocation>{X=325,Y=137}</unitLocation>
+  </task1>
+  <task2>
+    <unitName>Search Target</unitName>
+    <unitLocation>{X=124,Y=74}</unitLocation>
+  </task2>
+  <task3>
+    <unitName>Tracing Light</unitName>
+    <unitLocation>{X=325,Y=137}</unitLocation>
+  </task3>
+  <task4>
+    <unitName>Search Target</unitName>
+    <unitLocation>{X=124,Y=74}</unitLocation>
+  </task4>
+  <task5>
+    <unitName>Tracing Light</unitName>
+    <unitLocation>{X=325,Y=137}</unitLocation>
+  </task5>
+  <line0>
+    <LineName>line1</LineName>
+    <lineStartPoint>{X=124,Y=74}</lineStartPoint>
+    <lineEndPoint>{X=325,Y=137}</lineEndPoint>
+  </line0>
+  <line1>
+    <LineName>line1</LineName>
+    <lineStartPoint>{X=124,Y=74}</lineStartPoint>
+    <lineEndPoint>{X=325,Y=137}</lineEndPoint>
+  </line1>
+  <line2>
+    <LineName>line1</LineName>
+    <lineStartPoint>{X=124,Y=74}</lineStartPoint>
+    <lineEndPoint>{X=325,Y=137}</lineEndPoint>
+  </line2>
+</Mission>

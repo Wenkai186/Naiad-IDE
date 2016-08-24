@@ -1,0 +1,18 @@
+{
+  "go1": {
+    "Mission": "Search Target",
+    "CallBack": null
+  },
+  "go2": {
+    "Mission": "Tracing Light",
+    "CallBack": null
+  },
+  "go3": {
+    "Mission": "Tracing Light",
+    "CallBack": null
+  },
+  "go4": {
+    "Mission": "Search Target",
+    "CallBack": null
+  }
+}

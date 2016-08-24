@@ -1,0 +1,43 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Sever", "Sever", "{B7B64C29-4DB4-4EE9-A832-4EF3BAA7E8BC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TCPIPTEST", "..\..\..\..\..\..\Desktop\NAIAD IDE 1.0\TCPIPTEST\TCPIPTEST.csproj", "{C1D29F80-FE6C-4C10-A711-9EFA1438D009}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "44", "44", "{0B7B14CB-3CB2-418D-BF0B-6D69008E52DC}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "NewFolder1", "NewFolder1", "{E2F5D753-4805-4CF3-A392-5195BC6FE506}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NAIAD_IDE1", "..\..\..\..\..\..\Desktop\NAIAD IDE 1.0\NAIAD IDE 1.4-Backup\NAIAD IDE 1.0-Backup\NAIAD_IDE1.csproj", "{79CDB480-B3FF-4AF4-BAA0-29D8142FE917}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NAIAD_IDE1", "NAIAD_IDE1.csproj", "{1DD58B3C-1F4A-47FB-B403-CD8CC5C95733}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C1D29F80-FE6C-4C10-A711-9EFA1438D009}.Debug|x86.ActiveCfg = Debug|x86
+		{C1D29F80-FE6C-4C10-A711-9EFA1438D009}.Debug|x86.Build.0 = Debug|x86
+		{C1D29F80-FE6C-4C10-A711-9EFA1438D009}.Release|x86.ActiveCfg = Release|x86
+		{C1D29F80-FE6C-4C10-A711-9EFA1438D009}.Release|x86.Build.0 = Release|x86
+		{79CDB480-B3FF-4AF4-BAA0-29D8142FE917}.Debug|x86.ActiveCfg = Debug|x86
+		{79CDB480-B3FF-4AF4-BAA0-29D8142FE917}.Debug|x86.Build.0 = Debug|x86
+		{79CDB480-B3FF-4AF4-BAA0-29D8142FE917}.Release|x86.ActiveCfg = Release|x86
+		{79CDB480-B3FF-4AF4-BAA0-29D8142FE917}.Release|x86.Build.0 = Release|x86
+		{1DD58B3C-1F4A-47FB-B403-CD8CC5C95733}.Debug|x86.ActiveCfg = Debug|x86
+		{1DD58B3C-1F4A-47FB-B403-CD8CC5C95733}.Debug|x86.Build.0 = Debug|x86
+		{1DD58B3C-1F4A-47FB-B403-CD8CC5C95733}.Release|x86.ActiveCfg = Release|x86
+		{1DD58B3C-1F4A-47FB-B403-CD8CC5C95733}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{C1D29F80-FE6C-4C10-A711-9EFA1438D009} = {B7B64C29-4DB4-4EE9-A832-4EF3BAA7E8BC}
+		{79CDB480-B3FF-4AF4-BAA0-29D8142FE917} = {0B7B14CB-3CB2-418D-BF0B-6D69008E52DC}
+		{1DD58B3C-1F4A-47FB-B403-CD8CC5C95733} = {E2F5D753-4805-4CF3-A392-5195BC6FE506}
+	EndGlobalSection
+EndGlobal

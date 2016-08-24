@@ -1,0 +1,1 @@
+{"step1":{"mission":"Search Target","Setting":{"Set":"Search Toy"},"CallBack":null},"step2":{"mission":"Tracing Light","CallBack":null},"step3":{"mission":"Change Shape","CallBack":"step1"}}

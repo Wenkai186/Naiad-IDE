@@ -1,0 +1,42 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Structure>
+  <Mission>
+    <Step1>
+      <unitName>Change Shape</unitName>
+      <unitLocation>{X=96,Y=121}</unitLocation>
+      <CallBack>null</CallBack>
+    </Step1>
+    <Step2>
+      <unitName>Fire Torpedo</unitName>
+      <unitLocation>{X=268,Y=149}</unitLocation>
+      <CallBack>null</CallBack>
+    </Step2>
+    <Step3>
+      <unitName>Search Target</unitName>
+      <unitLocation>{X=421,Y=148}</unitLocation>
+      <CallBack>step2</CallBack>
+    </Step3>
+    <Step4>
+      <unitName>Tracing Light</unitName>
+      <unitLocation>{X=523,Y=173}</unitLocation>
+      <CallBack>null</CallBack>
+    </Step4>
+  </Mission>
+  <StraightLine>
+    <line1>
+      <LineName>line1</LineName>
+      <lineStartPoint>{X=96,Y=121}</lineStartPoint>
+      <lineEndPoint>{X=268,Y=149}</lineEndPoint>
+    </line1>
+    <line2>
+      <LineName>line2</LineName>
+      <lineStartPoint>{X=268,Y=149}</lineStartPoint>
+      <lineEndPoint>{X=421,Y=148}</lineEndPoint>
+    </line2>
+    <line3>
+      <LineName>line3</LineName>
+      <lineStartPoint>{X=421,Y=148}</lineStartPoint>
+      <lineEndPoint>{X=523,Y=173}</lineEndPoint>
+    </line3>
+  </StraightLine>
+</Structure>

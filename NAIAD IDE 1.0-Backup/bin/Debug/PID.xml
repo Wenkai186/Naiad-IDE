@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Information>
+  <Position>
+    <TPXP>0.1</TPXP>
+    <TPXI>11</TPXI>
+    <TPXD>2</TPXD>
+    <TPYP>4</TPYP>
+    <TPYI>5</TPYI>
+    <TPYD>6</TPYD>
+    <TPZP>7</TPZP>
+    <TPZI>8</TPZI>
+    <TPZD>9</TPZD>
+  </Position>
+  <Orientation>
+    <TOXP>1</TOXP>
+    <TOXI>2</TOXI>
+    <TOXD>3</TOXD>
+    <TOYP>1</TOYP>
+    <TOYI>2</TOYI>
+    <TOYD>2</TOYD>
+    <TOZP>4</TOZP>
+    <TOZI>5</TOZI>
+    <TOZD>4</TOZD>
+  </Orientation>
+</Information>

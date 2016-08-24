@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mission>
+  <task0>
+    <unitName>Search Target</unitName>
+    <unitLocation>{X=205,Y=83}</unitLocation>
+  </task0>
+  <task1>
+    <unitName>Tracing Light</unitName>
+    <unitLocation>{X=471,Y=69}</unitLocation>
+  </task1>
+  <line0>
+    <LineName>line1</LineName>
+    <lineStartPoint>{X=205,Y=83}</lineStartPoint>
+    <lineEndPoint>{X=471,Y=69}</lineEndPoint>
+  </line0>
+</Mission>
